@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+
+#team_logo{
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+
+#usl_logo{
+    text-align: center; 
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.table{
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+}
+
+.location{
+    color: #fff;
+}
+
+.home{
+    color: #45b8f0;
+}
+
+.away{
+    color: #dee351;
+}
+
+.games{
+    color: #fff;
+
+}
